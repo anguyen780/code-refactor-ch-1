@@ -91,6 +91,8 @@ aside {
     color: #ffffff;
 }
 
+/* Lines 96-109 all were doing the same thing so I consolidated them all into one class */
+
 /* .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -110,6 +112,8 @@ aside {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* Lines 118-131 had the same properties, consolidated them all into one class */
 
 /* .benefit-lead h3 {
     margin-bottom: 10px;
@@ -131,6 +135,8 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Lines 141-157 all had same properties, consolidated them all into one class */
 
 /* .benefit-lead img {
     display: block;
@@ -158,6 +164,8 @@ aside {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/* Lines 170-195 all had same properties, consolidated them all into one class */
 
 /* .search-engine-optimization {
     margin-bottom: 20px;
@@ -190,6 +198,8 @@ aside {
     max-height: 200px;
 }
 
+/* Lines 203-213 all had same properties, consolidated them into one class */
+
 /* .search-engine-optimization-img {
     max-height: 200px;
 }
@@ -206,6 +216,8 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Lines 222-235 all had same properties, consolidated them into one class */
 
 /* .search-engine-optimization h2 {
     margin-bottom: 20px;
